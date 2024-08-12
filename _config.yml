@@ -29,7 +29,9 @@ navbar-links:
    # - Teleoperated robotic puppet for children with Autism: 
    #- Beautiful Jekyll: "https://beautifuljekyll.com"
    - first project: "learningdisability"
-   - second projectt: "SLT"
+   - second project: "SLT"
+   - third projecT: "play"
+   - fouth project: "play_children" 
    - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
