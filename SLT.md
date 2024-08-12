@@ -8,3 +8,4 @@ title: Exploring the use of social robots in speech and language therapy
 - Keep children engaged in lessons
 
 
+![SLT](https://github.com/user-attachments/assets/84ce58a2-f312-4373-aaa1-f31052f68a76)
