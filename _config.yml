@@ -22,7 +22,7 @@ author: Negin Azizi
 navbar-links:
   About Me: "aboutme"
   Projects: 
-    - Using social robots to help children with learning disabilities: "learningdisability"
+    - Using social robots to help children with learning disabilities: 
     - Exploring the use of social robots in speech and language therapy:  
     - Collaborative game through a robot play mediator: 
     - Collaborative game for children with upper-limb disabilities:
