@@ -8,6 +8,8 @@ My name is Negin Azizi.
 - I have a M.Sc. in Electrical and Computer Engineering from the University of Waterloo.
 - I am passionate about how technology can enhance people's lives.
 - I design and develop robotic systems and user interfaces to assist individuals with disabilities.
+  
+## Skills & expertise
 
 <!--
 - I rock a great mustache
