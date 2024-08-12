@@ -32,7 +32,7 @@ navbar-links:
    - second project: "SLT"
    - third projecT: "play"
    - fouth project: "play_children" 
-   - Learn markdown: "https://www.markdowntutorial.com/"
+   #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 ################
