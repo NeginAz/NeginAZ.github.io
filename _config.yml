@@ -21,7 +21,8 @@ author: Negin Azizi
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Projects: 
+    - Using social robots to help children with learning disabilities:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
