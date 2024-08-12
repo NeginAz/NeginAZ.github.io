@@ -21,14 +21,14 @@ author: Negin Azizi
 
 navbar-links:
   About Me: "aboutme"
-  #Projects:
+  Projects:
    # - Using social robots to help children with learning disabilities: "learningdisability"
    # - Exploring the use of social robots in speech and language therapy:  
    # - Collaborative game through a robot play mediator: 
    # - Collaborative game for children with upper-limb disabilities:
    # - Teleoperated robotic puppet for children with Autism: 
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+   - Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 ################
