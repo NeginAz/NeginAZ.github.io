@@ -17,4 +17,18 @@ subtitle: LDS
 ![setting_1](https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a)
 
 
+![game1](https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28)
+
+
+
+![system](https://github.com/user-attachments/assets/93380f95-df40-4b33-b2f4-eefde9b58b0f)
+
+
+![game2](https://github.com/user-attachments/assets/bbe1a89f-34f9-424a-a446-b46af1bb5362)
+
+![game3](https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59)
+
+
+![app](https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b)
+
 
