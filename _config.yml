@@ -27,7 +27,8 @@ navbar-links:
    # - Collaborative game through a robot play mediator: 
    # - Collaborative game for children with upper-limb disabilities:
    # - Teleoperated robotic puppet for children with Autism: 
-   - Beautiful Jekyll: "https://beautifuljekyll.com"
+   #- Beautiful Jekyll: "https://beautifuljekyll.com"
+   - Beautiful Jekyll: "aboutme"
    - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
