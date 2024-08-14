@@ -2,9 +2,10 @@
 title: Collaborative Game Through A Robot Play Mediator
 ---
 
--Conducted experiments with human participants, operating robots through two joysticks
--Collected and analyzed data from heart rate sensors, joysticks, and videos
--Developed evaluation metrics based on physiological sensor data joystick usage, and behavioural cues
+
+- Conducted experiments with human participants, operating robots through two joysticks
+- Collected and analyzed data from heart rate sensors, joysticks, and videos
+- Developed evaluation metrics based on physiological sensor data joystick usage, and behavioural cues
 
 <h4>Participants</h4>
 
