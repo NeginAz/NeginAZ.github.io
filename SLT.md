@@ -25,4 +25,3 @@ title: Interactive Games with a Social Robot for Children with Speech and Langua
 </center>
 
 
-![SLT](https://github.com/user-attachments/assets/84ce58a2-f312-4373-aaa1-f31052f68a76)
