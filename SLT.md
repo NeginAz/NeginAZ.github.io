@@ -2,7 +2,7 @@
 title: Interactive Games with a Social Robot for Children with Speech and Language Disabilities
 ---
 ### Description: 
-- Partnered with [the Kickstart Therapy](https://www.kickstarttherapy.com)
+- Partnered with [Kickstart Therapy](https://www.kickstarttherapy.com)
 - Designed and implemented robotic system
 - The robot assist therapists in teaching emotions and basic vocabulary to children 
 - The robot keeps children engaged in lessons
