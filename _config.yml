@@ -281,7 +281,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "aboutme"
+      type: "posts"
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
