@@ -20,7 +20,7 @@ subtitle: LDS
 <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="150">
 
 
-.image {position: relative}
+.image {position: relative;}
 
 ![game1](https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28)
 
