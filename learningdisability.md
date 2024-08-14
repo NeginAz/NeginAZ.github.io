@@ -20,8 +20,6 @@ subtitle: LDS
 <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="150">
 
 
-
-
 .imdesc {
     display: inline-block;
     vertical-align: middle;
