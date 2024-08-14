@@ -31,4 +31,10 @@ subtitle: LDS
 
 ![app](https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b)
 
+### Related Publications: 
+[An Initial Investigation into the Use of Social Robots within an Existing Educational Program for Students with Learning Disabilities
+](https://ieeexplore.ieee.org/abstract/document/9900735)
+
+[User Evaluation of Social Robots as a Tool in One-to-One Instructional Settings for Students with Learning Disabilities
+](https://link.springer.com/chapter/10.1007/978-3-031-24670-8_14)
 
