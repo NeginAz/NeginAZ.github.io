@@ -11,9 +11,6 @@ subtitle: LDS
 - The robot made a positive impression on both students and instructors and improved students' engagement rate. 
 - Children played games with the robot through a tablet. 
 
-<!--
- ![setting]()
- -->
  ### Pictures: 
 
  #### Setting: 
@@ -22,9 +19,8 @@ subtitle: LDS
 
 <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="300">
 
-<!--
-![setting_1](https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a)
--->
+
+
 
 ![game1](https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28)
 
