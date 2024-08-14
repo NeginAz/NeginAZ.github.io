@@ -40,7 +40,7 @@ subtitle: LDS
 
  <h4>System architecture</h4>
  <div class = "column">
-    <img src="https://github.com/user-attachments/assets/80df29f6-7949-4b98-9a32-0602d1897f87" height = "220" position = "relative">
+    <img src="https://github.com/user-attachments/assets/80df29f6-7949-4b98-9a32-0602d1897f87" height = "300" position = "relative">
  </div>
 
 
@@ -48,10 +48,10 @@ subtitle: LDS
 
   <div class ="row">
   <div class="column">
-   <img src="https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59" height="140" position= "relative">
+   <img src="https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59" height="220" position= "relative">
   </div>
   <div class="column">
-   <img src="https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b" height="140" position= "relative">
+   <img src="https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b" height="220" position= "relative">
   </div>
   </div>
 
