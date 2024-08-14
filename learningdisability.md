@@ -13,7 +13,7 @@ subtitle: LDS
 <!--
  ![setting]()
  -->
-<img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" width="100">
+<img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" width="200">
 
 
 - Children played games with the robot through a tablet
