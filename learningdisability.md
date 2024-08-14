@@ -14,31 +14,12 @@ subtitle: LDS
 <h3>Pictures</h3>
 
  <h4>Setting</h4>
-<img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" height="150">
+<img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" height="150" position ="relative">
 
 
-<img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="150">
+<img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="150" position= "relative">
 
 
-.imdesc {
-    display: inline-block;
-    vertical-align: middle;
-    position: relative
-}
-.imdesc img {
-    vertical-align: middle;
-}
-.imdesc p {
-    text-align: center;
-    background: #fc0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 100px;
-    height: 100px;
-    margin: -50px;
-    border-radius: 50px;
-}
 
 
 ![game1](https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28)
