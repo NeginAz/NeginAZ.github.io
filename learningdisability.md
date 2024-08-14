@@ -1,13 +1,12 @@
 ---
-title: Learning disability 
-subtitle: LDS
+title: Interactive Robotic Activities for Children with learning disabilities
 ---
 ### Description: 
 - Partnered with the [Learning Disabilities Society](https://ldsociety.ca)
 - Children with learning disabilities often struggle to maintain focus on their tasks
 - Designed, and implemented a robotic system to help instructors keep the students engaged
 - The robot provides strategies such as breathing exercises, and games 
-- Developed a user-friendly interface solution on the tablet.   
+- Developed a user-friendly interface solution on the tablet 
 - The robot made a positive impression on both students and instructors and improved students' engagement rate
 - Children played games with the robot through a tablet
 
