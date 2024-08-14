@@ -10,14 +10,14 @@ title: Collaborative Game Through A Robot Play Mediator
 
  <center>
  <div class = "column">
-    <img src="https://github.com/user-attachments/assets/96c6c0d9-e27e-4595-8a63-d87269369a54" width = "300" position = "relative" align ="center">
+    <img src="https://github.com/user-attachments/assets/96c6c0d9-e27e-4595-8a63-d87269369a54" width = "400" position = "relative" align ="center">
  </div>
  </center>
 
 <h4>Settings</h4>
   <center>
  <div class = "column">
-    <img src="https://github.com/user-attachments/assets/25faedae-5f69-44a8-a7ef-1f68107e2070" width = "300" position = "relative" align ="center">
+    <img src="https://github.com/user-attachments/assets/25faedae-5f69-44a8-a7ef-1f68107e2070" width = "400" position = "relative" align ="center">
  </div>
  </center>
 
