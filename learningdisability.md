@@ -25,7 +25,6 @@ subtitle: LDS
 ![game1](https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28)
 
 
-
 ![system](https://github.com/user-attachments/assets/93380f95-df40-4b33-b2f4-eefde9b58b0f)
 
 
