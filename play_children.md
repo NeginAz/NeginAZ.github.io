@@ -14,13 +14,13 @@ title: Collaborative game for children with upper-limb disabilities
 
  <center>
  <div class = "column">
-    <img src="https://github.com/user-attachments/assets/b5f157b5-c93e-4d34-8acd-5362b457e17d" height = "300" position = "relative" align ="center">
+    <img src="https://github.com/user-attachments/assets/b5f157b5-c93e-4d34-8acd-5362b457e17d" height = "450" position = "relative" align ="center">
  </div>
  </center>
 
   <center>
  <div class = "column">
-    <img src="https://github.com/user-attachments/assets/5ebadac9-0910-4656-9760-130c5e1d7e3a" height = "300" position = "relative" align ="center">
+    <img src="https://github.com/user-attachments/assets/5ebadac9-0910-4656-9760-130c5e1d7e3a" height = "450" position = "relative" align ="center">
  </div>
  </center>
 
