@@ -14,10 +14,10 @@ subtitle: LDS
 <!--
  ![setting]()
  -->
-<img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" width="400">
+<img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" height="300">
 
 
-<img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" width="400">
+<img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="300">
 
 <!--
 ![setting_1](https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a)
