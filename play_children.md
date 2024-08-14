@@ -2,14 +2,14 @@
 ---
 title: Collaborative game for children with upper-limb disabilities
 ---
+### Description: 
+- Partnered with the Kidsability
 
--Partnered with the Kidsability
+- Children with disabilities often lack opportunities to play
 
--Children with disabilities often lack opportunities to play
+- Designed a robotic game, and an interface solution
 
--Designed a robotic game, and an interface solution
-
--Designed success metrics to measure user engagement
+- Designed success metrics to measure user engagement
 
 
  <center>
