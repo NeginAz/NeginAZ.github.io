@@ -1,7 +1,7 @@
 
 
 ---
-title: Collaborative game for children with upper-limb disabilities
+title: Collaborative game for children with upper limb disabilities
 ---
 ### Description: 
 - Partnered with the Kidsability
