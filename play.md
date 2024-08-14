@@ -1,16 +1,27 @@
 ---
-title: Play dynamics in collaborative games through a robot play mediator
+title: Collaborative Game Through A Robot Play Mediator
 ---
 
-Compared two x-box joystick solutions
+-Compared two X-box joystick solutions
+-Collected and analyzed data from heart rate sensors, joysticks, and videos
+-Developed evaluation metrics based on physiological heart rate data joystick usage, and behavioral cues
 
-Developed evaluation metrics based on physiological signal and joystick usage, and behavioral cues
+<h4> Pictures</h4>
 
 
-![participants](https://github.com/user-attachments/assets/96c6c0d9-e27e-4595-8a63-d87269369a54)
+ <center>
+ <div class = "column">
+    <img src="https://github.com/user-attachments/assets/96c6c0d9-e27e-4595-8a63-d87269369a54" height = "300" position = "relative" align ="center">
+ </div>
+ </center>
+
+  <center>
+ <div class = "column">
+    <img src="https://github.com/user-attachments/assets/25faedae-5f69-44a8-a7ef-1f68107e2070" height = "300" position = "relative" align ="center">
+ </div>
+ </center>
 
 
-![setup](https://github.com/user-attachments/assets/25faedae-5f69-44a8-a7ef-1f68107e2070)
 
 
 ### Publications: 
