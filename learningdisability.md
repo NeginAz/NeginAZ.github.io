@@ -55,7 +55,7 @@ subtitle: LDS
 
 
 
-### Related Publications: 
+### Publications: 
 [An Initial Investigation into the Use of Social Robots within an Existing Educational Program for Students with Learning Disabilities
 ](https://ieeexplore.ieee.org/abstract/document/9900735)
 
