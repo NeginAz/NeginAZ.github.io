@@ -40,7 +40,7 @@ subtitle: LDS
 
  <h4>System architecture</h4>
  <div class = "column">
-    <img src="https://github.com/user-attachments/assets/80df29f6-7949-4b98-9a32-0602d1897f87" height = "300" position = "relative">
+    <img src="https://github.com/user-attachments/assets/80df29f6-7949-4b98-9a32-0602d1897f87" height = "300" position = "relative" align ="center">
  </div>
 
 
