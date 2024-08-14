@@ -7,8 +7,9 @@ subtitle: LDS
 - Children with learning disabilities often struggle to maintain focus on their tasks
 - Designed, and implemented a robotic system to help instructors keep the students engaged
 - The robot provides strategies such as breathing exercises, and games 
-- Developed a user-friendly interface solution on the tablet  
-- The robot made a positive impression on both students and instructors and improved students' engagement rate
+- Developed a user-friendly interface solution on the tablet.   
+- The robot made a positive impression on both students and instructors and improved students' engagement rate. 
+- Children played games with the robot through a tablet. 
 
 <!--
  ![setting]()
@@ -16,10 +17,11 @@ subtitle: LDS
 <img src ="https://github.com/user-attachments/assets/4013a3f5-7707-44d1-a8cd-a58cc5d8340b" width="400">
 
 
-- Children played games with the robot through a tablet
+<img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" width="400">
 
+<!--
 ![setting_1](https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a)
-
+-->
 
 ![game1](https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28)
 
