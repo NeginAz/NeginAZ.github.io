@@ -1,5 +1,5 @@
 ---
-title: Interactive Robotic Activities for Children with learning disabilities
+title: Interactive Robotic Activities for Children with Learning Disabilities
 ---
 ### Description: 
 - Partnered with the [Learning Disabilities Society](https://ldsociety.ca)
