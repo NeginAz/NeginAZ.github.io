@@ -38,11 +38,13 @@ subtitle: LDS
   </div>
   </div>
 
+ <h4>Systems architecture</h4>
+ 
+ <img src ="https://github.com/user-attachments/assets/bbe1a89f-34f9-424a-a446-b46af1bb5362" height="140" position ="relative">
 
- <div class ="row">
-  <div class="column">
-      <img src ="https://github.com/user-attachments/assets/bbe1a89f-34f9-424a-a446-b46af1bb5362" height="140" position ="relative">
-  </div>
+ <h4>Interactivce Games</h4>
+
+  <div class ="row">
   <div class="column">
    <img src="https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59" height="140" position= "relative">
   </div>
