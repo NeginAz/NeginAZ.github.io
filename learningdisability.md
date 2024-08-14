@@ -39,13 +39,18 @@ subtitle: LDS
   </div>
 
 
+ <div class ="row">
+  <div class="column">
+      <img src ="https://github.com/user-attachments/assets/bbe1a89f-34f9-424a-a446-b46af1bb5362" height="250" position ="relative">
+  </div>
+  <div class="column">
+   <img src="https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59" height="250" position= "relative">
+  </div>
+    <div class="column">
+   <img src="https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b" height="250" position= "relative">
+  </div>
+  </div>
 
-![game2](https://github.com/user-attachments/assets/bbe1a89f-34f9-424a-a446-b46af1bb5362)
-
-![game3](https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59)
-
-
-![app](https://github.com/user-attachments/assets/1923af63-b797-4a13-85bf-7cf44d70f90b)
 
 
 ### Related Publications: 
