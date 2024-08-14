@@ -2,7 +2,7 @@
 title: Collaborative Game for Children with Upper Limb Disabilities
 ---
 ### Description: 
-- Partnered with the Kidsability
+- Partnered with [Kidsability](https://www.kidsability.ca)
 
 - Children with disabilities often lack opportunities to play
 
