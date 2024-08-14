@@ -20,7 +20,28 @@ subtitle: LDS
 <img src="https://github.com/user-attachments/assets/084e0210-d601-47b2-b98e-ee2bbe256f4a" height="150">
 
 
-.image {position: relative;}
+
+
+.imdesc {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative
+}
+.imdesc img {
+    vertical-align: middle;
+}
+.imdesc p {
+    text-align: center;
+    background: #fc0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin: -50px;
+    border-radius: 50px;
+}
+
 
 ![game1](https://github.com/user-attachments/assets/0e221614-1069-4e08-87e3-f8efe57bdb28)
 
