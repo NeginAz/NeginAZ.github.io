@@ -15,9 +15,8 @@ title: Interactive Games with a Social Robot for Children with Speech and Langua
   </div>
 </div>
 </center>
-
 <center>
-  <div>
+  <div  class="row">
   <div class="column">
    <img src="https://github.com/user-attachments/assets/870f1a32-5ee9-4671-9ede-2375d868800f" width="400" position= "relative">
   </div>
