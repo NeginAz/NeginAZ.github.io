@@ -44,7 +44,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
  </div>
  </center>
 
- <h4>Interactivce Games</h4>
+ <h4>Interactive Games</h4>
 
 
   <div class ="row">
