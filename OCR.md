@@ -12,7 +12,7 @@ title: Optical Character Recognition for old writings
 - The study evaluates different methods, with the best approach being reported.
 
 <h4>Methods</h4>
-- Due to the limited number of samples for each character, samples of each character were first collected from the text images using the Template Matching method.
+Due to the limited number of samples for each character, samples of each character were first collected from the text images using the Template Matching method.
 
  <center>
  <div class = "column">
@@ -41,11 +41,5 @@ Then, based on locating the coordinates of the page contours, the characters in 
 
 By classifying the characters using the designed network, an accuracy of 84% was achieved on the test samples. In the figure below, from right to left, examples of characters from the training set, validation set, and test set are shown. 
 
-
- <center>
- <div class = "column">
-    <img src="https://github.com/user-attachments/assets/d4c00812-e4d2-42c8-a00a-c4662b186e8e" width = "400" position = "relative" align ="center">
- </div>
- </center>
 
 
