@@ -28,6 +28,22 @@ For better classification performance, the dataset was created as images with a 
  </div>
  </center>
 
+Various algorithms were used for character classification, but ultimately the images were classified using a CNN (Convolutional Neural Network).
+
+ <center>
+ <div class = "column">
+    <img src="https://github.com/user-attachments/assets/9dc0674e-1b45-42f7-98b5-c04e256c5a18" width = "400" position = "relative" align ="center">
+ </div>
+ </center>
+
+Then, based on locating the coordinates of the page contours, the characters in the text images are identified and translated.
+
+ <center>
+ <div class = "column">
+    <img src="https://github.com/user-attachments/assets/d4c00812-e4d2-42c8-a00a-c4662b186e8e" width = "400" position = "relative" align ="center">
+ </div>
+ </center>
+
 
 
 
