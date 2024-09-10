@@ -32,6 +32,7 @@ navbar-links:
    - Interactive Games: "SLT"
    - Collabrative Game: "play"
    - Roobtic Physical Game: "play_children" 
+   - Optical Character Recognition for old hand writings: "OCR"
    #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
