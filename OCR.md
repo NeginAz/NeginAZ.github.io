@@ -45,7 +45,7 @@ Then, based on locating the coordinates of the page contours, the characters in 
  </div>
  </center>
 
-By classifying the characters using the designed network, an accuracy of 84% was achieved on the test samples. In the figure below, from right to left, examples of characters from the training set, validation set, and test set are shown. 
+By classifying the characters using the designed network, an accuracy of 84% was achieved on the test samples.
 
  <center>
  <div class = "column">
