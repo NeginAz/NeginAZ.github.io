@@ -16,16 +16,19 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - Behavioral Data: Observations of on-task and off-task behaviors during sessions.
 - Engagement Metrics: Tracking student engagement through task completion, redirection strategies (RS), and mood reflections.
 - Instructors' Feedback: Qualitative data collected from instructors regarding their perceptions of the robot’s effectiveness and student engagement.
+- Mood Reflection: Students reflected their mood using a worksheet at the beginning and end of each session.
 
 <h4> Data Analysis </h4>
-#####  Quantitative Analysis:
+######  Quantitative Analysis:
 - Comparison of on-task behavior and task completion between the traditional "Instruction As Usual" (IAU) sessions and "Robot-Mediated Instruction" (RMI) sessions.
 - Statistical analysis to assess the impact of the robot on student engagement and redirection effectiveness.
-##### Qualitative Analysis: 
+###### Qualitative Analysis: 
 - Instructor feedback on robot intervention, including ease of use, effectiveness, and student response.
 - Analysis of the types of off-task behaviors exhibited by students and preferred redirection strategies.
 
    <img src ="https://github.com/user-attachments/assets/ae23b563-cc42-4e92-b894-d3900f990dd3" height="220" position ="relative">
+
+
    <img src ="https://github.com/user-attachments/assets/520afd6b-e0b6-4697-ab85-b6f7a2efb9a7" height="220" position ="relative">
 
 
