@@ -28,11 +28,6 @@ title: Collaborative Game Through A Robot Play Mediator
  
 <h4> Methods: </h4>
 
-![video_graph](https://github.com/user-attachments/assets/efe947d5-8158-420b-a5c2-0175711f36b4)
-![magnitude](https://github.com/user-attachments/assets/201bcbe6-b5ff-40c9-bdb5-01e1bfde99fc)
-![freq](https://github.com/user-attachments/assets/ad8918fe-50ff-4462-9cbd-f347f8f9163c)
-
-
 - Collaborative Game Setup: Two types of collaborative games were designed where participants controlled a robot through adaptive joysticks. In one game, players shared tasks, while in the other, they needed to coordinate their actions for joint outcomes.
 - Joystick Data: Data was collected on how participants used the joystick, focusing on frequency, magnitude, and coordination of commands.
 - Video Recordings: Sessions were recorded to observe communication, coordination, and interaction between players.
@@ -65,6 +60,9 @@ title: Collaborative Game Through A Robot Play Mediator
 <img src="https://github.com/user-attachments/assets/363aeeda-3fcf-4eb8-86f7-e8848279bb60" width = "400" position = "relative" align ="center">
 
 
+<img src="https://github.com/user-attachments/assets/efe947d5-8158-420b-a5c2-0175711f36b4" width = "400" position = "relative" align ="center">
+<img src="https://github.com/user-attachments/assets/201bcbe6-b5ff-40c9-bdb5-01e1bfde99fc" width = "400" position = "relative" align ="center">
+<img src="https://github.com/user-attachments/assets/ad8918fe-50ff-4462-9cbd-f347f8f9163c" width = "400" position = "relative" align ="center">
 
 
 <h4> Findings: </h4>
