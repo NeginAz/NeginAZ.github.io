@@ -46,7 +46,6 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 
  <h4>Interactive Games</h4>
 
-
   <div class ="row">
   <div class="column">
    <img src="https://github.com/user-attachments/assets/ff80d312-6e70-4f68-ba1d-c009ad447b59" height="220" position= "relative">
@@ -57,6 +56,11 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
   </div>
 
 
+<h4> Data Sources</h4>
+
+- Behavioral Data: Observations of on-task and off-task behaviors during sessions.
+- Engagement Metrics: Tracking student engagement through task completion, redirection strategies (RS), and mood reflections.
+- Instructors' Feedback: Qualitative data collected from instructors regarding their perceptions of the robot’s effectiveness and student engagement.
 
 ### Publications: 
 [An Initial Investigation into the Use of Social Robots within an Existing Educational Program for Students with Learning Disabilities
