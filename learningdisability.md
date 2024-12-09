@@ -62,7 +62,7 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - Engagement Metrics: Tracking student engagement through task completion, redirection strategies (RS), and mood reflections.
 - Instructors' Feedback: Qualitative data collected from instructors regarding their perceptions of the robot’s effectiveness and student engagement.
 
-<h4> Data Analysis </h4>h4>
+<h4> Data Analysis </h4>
 ### Approach:
 #### Quantitative Analysis:
 - Comparison of on-task behavior and task completion between the traditional "Instruction As Usual" (IAU) sessions and "Robot-Mediated Instruction" (RMI) sessions.
