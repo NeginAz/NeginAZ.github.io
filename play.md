@@ -60,7 +60,7 @@ title: Collaborative Game Through A Robot Play Mediator
 
 <img src="https://github.com/user-attachments/assets/bdf459ed-7149-4581-8427-e8158019990c" width = "400" position = "relative" align ="center">
 <img src="https://github.com/user-attachments/assets/ce3ddf9b-29d6-47f5-b0a1-e7d71f56a23e" width = "400" position = "relative" align ="center">
-
+<br> 
 <img src="https://github.com/user-attachments/assets/722b4add-c158-4be9-bb61-f0e8869e8884" width = "400" position = "relative" align ="center">
 <img src="https://github.com/user-attachments/assets/363aeeda-3fcf-4eb8-86f7-e8848279bb60" width = "400" position = "relative" align ="center">
 
