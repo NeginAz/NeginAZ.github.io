@@ -9,6 +9,9 @@ title: Collaborative Game Through A Robot Play Mediator
 
 <h4>Participants</h4>
 
+- Initially, children with upper-limb disorders were the target group. However, due to Covid-19 restrictions, university students were recruited as participants to collect preliminary data.
+- Two Participants per Session: Participants played collaborative games with the robot, each controlling part of the robot’s movement.
+
  <center>
  <div class = "column">
     <img src="https://github.com/user-attachments/assets/96c6c0d9-e27e-4595-8a63-d87269369a54" width = "400" position = "relative" align ="center">
@@ -23,6 +26,31 @@ title: Collaborative Game Through A Robot Play Mediator
  </center>
 
 
+<h4> Methods: </h4>
+
+- Collaborative Game Setup: Two types of collaborative games were designed where participants controlled a robot through adaptive joysticks. In one game, players shared tasks, while in the other, they needed to coordinate their actions for joint outcomes.
+- Joystick Data: Data was collected on how participants used the joystick, focusing on frequency, magnitude, and coordination of commands.
+- Video Recordings: Sessions were recorded to observe communication, coordination, and interaction between players.
+- Heart Rate Monitoring: Physiological data (heart rate) was collected to assess the level of engagement and emotional responses during play.
+
+
+<h4> Tools: </h4>
+
+- MyJay Robot: A mobile robot designed as a play mediator for the participants.
+- Adaptive Joysticks: Customized joysticks designed to accommodate movement impairments.
+- Video Recording Setup: Used to capture the gameplay and analyze player behavior.
+- Heart Rate Sensors: Monitored participants' heart rate to evaluate engagement and emotional responses.
+
+<h4> Data Analysis: </h4>
+
+ <h5> Quantitative Analysis: </h5>
+ 
+- Joystick Usage: Analyzed the frequency and magnitude of joystick commands, focusing on how participants coordinated their actions in both the shared and fusion game conditions.
+- Heart Rate Data: Analyzed heart rate changes to gauge the level of emotional and cognitive engagement during the games.
+<h5> Qualitative Analysis: </h5>
+
+- Communication and Coordination: Video data was coded to analyze how participants communicated and coordinated their actions during the games.
+- Behavioral Events: Observed and categorized different types of interactions between players, such as joint action and turn-taking, to assess the impact of collaboration strategies on gameplay.
 
 
 ### Publications: 
