@@ -53,6 +53,17 @@ title: Collaborative Game Through A Robot Play Mediator
 - Behavioral Events: Observed and categorized different types of interactions between players, such as joint action and turn-taking, to assess the impact of collaboration strategies on gameplay.
 
 
+
+
+
+
+<h4> Findings: </h4>
+
+- Coordination vs. Task Sharing: In the fusion condition, participants were required to coordinate their actions, resulting in more collaborative behavior compared to the shared condition, where they each controlled separate tasks.
+- Engagement and Collaboration: Participants showed higher levels of engagement in the fusion condition, indicated by heart rate changes and more synchronized actions.
+- Successful Play Mediation: The robot effectively mediated play, helping participants engage in collaborative tasks, and demonstrated the potential to support children with upper-limb disabilities in social play.
+
+
 ### Publications: 
 [Play Dynamics in a Collaborative Game with a Robot as a Play-Mediator](https://link.springer.com/chapter/10.1007/978-3-031-24670-8_37)
 
