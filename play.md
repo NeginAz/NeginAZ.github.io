@@ -23,10 +23,20 @@ title: Collaborative Game Through A Robot Play Mediator
  <div class = "column">
     <img src="https://github.com/user-attachments/assets/25faedae-5f69-44a8-a7ef-1f68107e2070" width = "400" position = "relative" align ="center">
  </div>
- </center>
+ </center>![P18_S](https://github.com/user-attachments/assets/bdf459ed-7149-4581-8427-e8158019990c)
+
+ 
+![P18_F](https://github.com/user-attachments/assets/ce3ddf9b-29d6-47f5-b0a1-e7d71f56a23e)
+![P11_S](https://github.com/user-attachments/assets/722b4add-c158-4be9-bb61-f0e8869e8884)
+![P11_F](https://github.com/user-attachments/assets/363aeeda-3fcf-4eb8-86f7-e8848279bb60)
 
 
-<h4> Methods: </h4>
+
+
+<h4> Methods: </h4>![video_graph](https://github.com/user-attachments/assets/efe947d5-8158-420b-a5c2-0175711f36b4)
+![magnitude](https://github.com/user-attachments/assets/201bcbe6-b5ff-40c9-bdb5-01e1bfde99fc)
+![freq](https://github.com/user-attachments/assets/ad8918fe-50ff-4462-9cbd-f347f8f9163c)
+
 
 - Collaborative Game Setup: Two types of collaborative games were designed where participants controlled a robot through adaptive joysticks. In one game, players shared tasks, while in the other, they needed to coordinate their actions for joint outcomes.
 - Joystick Data: Data was collected on how participants used the joystick, focusing on frequency, magnitude, and coordination of commands.
