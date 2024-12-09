@@ -62,6 +62,15 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - Engagement Metrics: Tracking student engagement through task completion, redirection strategies (RS), and mood reflections.
 - Instructors' Feedback: Qualitative data collected from instructors regarding their perceptions of the robot’s effectiveness and student engagement.
 
+<h4> Data Analysis </h4>h4>
+### Approach:
+#### Quantitative Analysis:
+- Comparison of on-task behavior and task completion between the traditional "Instruction As Usual" (IAU) sessions and "Robot-Mediated Instruction" (RMI) sessions.
+- Statistical analysis to assess the impact of the robot on student engagement and redirection effectiveness.
+#### Qualitative Analysis:
+- Instructor feedback on robot intervention, including ease of use, effectiveness, and student response.
+- Analysis of the types of off-task behaviors exhibited by students and preferred redirection strategies.
+
 ### Publications: 
 [An Initial Investigation into the Use of Social Robots within an Existing Educational Program for Students with Learning Disabilities
 ](https://ieeexplore.ieee.org/abstract/document/9900735)
