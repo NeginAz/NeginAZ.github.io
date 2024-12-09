@@ -63,10 +63,10 @@ title: Interactive Robotic Activities for Children with Learning Disabilities
 - Instructors' Feedback: Qualitative data collected from instructors regarding their perceptions of the robot’s effectiveness and student engagement.
 
 <h4> Data Analysis </h4>
-<h5>  Quantitative Analysis:</h5>
+#####  Quantitative Analysis:
 - Comparison of on-task behavior and task completion between the traditional "Instruction As Usual" (IAU) sessions and "Robot-Mediated Instruction" (RMI) sessions.
 - Statistical analysis to assess the impact of the robot on student engagement and redirection effectiveness.
-<h5> Qualitative Analysis: </h5>
+##### Qualitative Analysis: 
 - Instructor feedback on robot intervention, including ease of use, effectiveness, and student response.
 - Analysis of the types of off-task behaviors exhibited by students and preferred redirection strategies.
 
