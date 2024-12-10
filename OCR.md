@@ -9,10 +9,21 @@ title: Optical Character Recognition for old writings
 - The script consists of 37 characters and is associated with inscriptions from the Achaemenid period.
 - Due to the limited number of experts in ancient languages and the historical importance of these writings, this research focuses on automating the reading and translation of ancient texts.
 - A key objective is to select the most suitable algorithm for data classification, given the scarcity of cuneiform resources.
-- The study evaluates different methods, with the best approach being reported.
+- The project evaluates different methods, with the best approach being reported.
 
 <h4>Methods</h4>
-Due to the limited number of samples for each character, samples of each character were first collected from the text images using the Template Matching method.
+
+- Collected and preprocessed a dataset of ancient Persian cuneiform characters from historical inscriptions using image processing -tools like OpenCV for noise reduction and thresholding.
+- Extracted character images from inscriptions using template matching algorithms to locate and segment symbols from the background accurately.
+- Applied data augmentation techniques (rotation, scaling, translation) using OpenCV to increase dataset size and improve model generalization.
+- Generated synthetic data with Autoencoders to create variations of existing characters, enhancing the dataset and mitigating class imbalance.
+- Designed and implemented Convolutional Neural Networks (CNN) using TensorFlow/Keras to classify cuneiform characters, optimizing architecture for image recognition tasks.
+- Leveraged transfer learning with pre-trained models to boost classification accuracy, adapting models trained on standard datasets to cuneiform character recognition.
+- Applied Multi-Layer Perceptron (MLP) networks for character classification and compared their performance with CNN models for baseline evaluation.
+- Employed Few-Shot Learning techniques to enable character classification with limited data, improving recognition accuracy on rare symbols.
+- Evaluated model performance using metrics such as accuracy, confusion matrices, and loss curves to refine models and identify areas for improvement.
+- Developed a complete translation pipeline that integrated character detection and classification to convert ancient Persian cuneiform into modern Persian text.
+
 
  <center>
  <div class = "column">
