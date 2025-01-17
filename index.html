@@ -12,6 +12,7 @@ subtitle:
   <li>I design and develop robotic systems and user interfaces to assist individuals with disabilities.</li>
 </ul>
 -->
+<!--
 <p>Hello! I'm Negin Azizi, a dedicated engineer and researcher with a passion for robotics and artificial intelligence. My work focuses on creating assistive technologies that enhance accessibility in healthcare and education, as well as leveraging AI to solve complex problems and improve human-robot interactions. I specialize in developing intelligent systems, user-friendly interfaces, and innovative applications that bridge the gap between technology and real-world needs.</p>
 
 <p>Take a look at some of my featured projects below, showcasing my work in robotics, AI, and assistive technologies:</p>
@@ -26,6 +27,82 @@ subtitle:
 
 
 <p> <b> Skills & expertise </b> </p>
-
 <img src="/assets/img/Image.jpeg">
+-->
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .skills-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .skills-image {
+            cursor: pointer;
+            width: 150px;
+            height: auto;
+            transition: transform 0.3s ease;
+        }
+        .skills-image:hover {
+            transform: scale(1.1);
+        }
+        .skills-list {
+            margin: 20px auto;
+            display: none; /* Initially hidden */
+            text-align: left;
+            max-width: 400px;
+            list-style: none;
+            padding: 0;
+        }
+        .skills-list li {
+            padding: 5px 0;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>About Me</h1>
+    <p>Hello! I'm Negin Azizi, a dedicated engineer and researcher with a passion for robotics and artificial intelligence. My work focuses on creating assistive technologies that enhance accessibility in healthcare and education, as well as leveraging AI to solve complex problems and improve human-robot interactions. I specialize in developing intelligent systems, user-friendly interfaces, and innovative applications that bridge the gap between technology and real-world needs.</p>
+
+    <p>Take a look at some of my featured projects below, showcasing my work in robotics, AI, and assistive technologies:</p>
+
+    <!-- Skills Section -->
+    <div class="skills-container">
+        <img 
+            src="/assets/img/skills-icon.png" 
+            alt="Skills Icon" 
+            class="skills-image" 
+            onclick="toggleSkills()"
+        >
+        <ul class="skills-list" id="skillsList">
+            <li>Robotics Development</li>
+            <li>Artificial Intelligence</li>
+            <li>Machine Learning</li>
+            <li>Python Programming</li>
+            <li>ROS (Robot Operating System)</li>
+            <li>Embedded Systems</li>
+            <li>Data Analysis</li>
+            <li>Computer Vision</li>
+        </ul>
+    </div>
+
+    <script>
+        function toggleSkills() {
+            const skillsList = document.getElementById('skillsList');
+            if (skillsList.style.display === 'none' || skillsList.style.display === '') {
+                skillsList.style.display = 'block'; // Show the list
+            } else {
+                skillsList.style.display = 'none'; // Hide the list
+            }
+        }
+    </script>
+</body>
+</html>
